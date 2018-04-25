@@ -1,6 +1,6 @@
 # Android : Movie Rank
 
-This repository contains a sample app implemented with the MVP architecture that uses Jsoup to parse HTML.
+This repository contains a Android app implemented with the MVP architecture that uses Jsoup to parse HTML.
 <br>
 <p align="center">
   <img src="https://blog.ry4nkim.kr/assets/images/android-movie-rank/movie-rank.png" width="200">
