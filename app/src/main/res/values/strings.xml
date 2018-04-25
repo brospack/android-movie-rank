@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">영화 순위</string>
+    <string name="title_boxoffice">박스오피스</string>
+    <string name="title_wishlist">내 위시리스트</string>
+    <string name="title_activity_movie_detail">영화 제목</string>
+    <string name="about">ABOUT</string>
+    <string name="about_message"># Developed by ry4nkim</string>
+</resources>
