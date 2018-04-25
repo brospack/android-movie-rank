@@ -9,7 +9,6 @@ This repository contains a sample app implemented with the MVP architecture that
   <img src="https://blog.ry4nkim.kr/assets/images/android-movie-rank/movie-wish.png" width="200">
 </p>
 <br>
-<br>
 
 #### The app has following packages:
 1. **Model**
@@ -26,7 +25,7 @@ This repository contains a sample app implemented with the MVP architecture that
 2. [Selector (jsoup Java HTML Parser 1.11.3 API)](https://jsoup.org/apidocs/org/jsoup/select/Selector.html)
 3. [Try jsoup online: Java HTML parser and CSS debugger](https://try.jsoup.org)
 
-### HTML parsing website: [Megabox](http://www.megabox.co.kr/)
+### HTML parsing website:  [Megabox](http://www.megabox.co.kr/)
 
 ### License
 ```
